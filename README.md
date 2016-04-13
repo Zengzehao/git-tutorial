@@ -1,6 +1,6 @@
 # Git½Ì³Ì
 
-<<<<<<< HEAD
-- feature-A
-=======
+ - feature-A
+ - fix-B
+ - feature-C
 
